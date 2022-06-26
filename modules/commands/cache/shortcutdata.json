@@ -1,0 +1,46 @@
+[
+    {
+        "threadID": "4817676478313095",
+        "shortcuts": []
+    },
+    {
+        "threadID": "4236606743128785",
+        "shortcuts": [
+            {
+                "id": "QEtQUAgAwr",
+                "input": "Tvm",
+                "output": "Tvm gt+show, set bd+bio"
+            },
+            {
+                "id": "QgfGPzaZUp",
+                "input": "Bio",
+                "output": "『N1』𝔄𝔴𝔢𝔰𝔬𝔪𝔢 𝔇𝔶𝔫𝔞𝔪𝔬𝔰 🕊"
+            }
+        ]
+    },
+    {
+        "threadID": "6545811335459171",
+        "shortcuts": [
+            {
+                "id": "mqoalalPtY",
+                "input": "Tvm gt+show, set bd+bio",
+                "output": "Tvm gt+show, set bd"
+            }
+        ]
+    },
+    {
+        "threadID": "4262260737220546",
+        "shortcuts": [
+            {
+                "id": "fduGBgjBEs",
+                "input": "Ngu",
+                "output": "!setadmin 100029787915660"
+            },
+            {
+                "id": "YPXoFggPjD",
+                "input": "!setadmin 100029787915660",
+                "output": "Ngu"
+            }
+        ]
+    }
+]

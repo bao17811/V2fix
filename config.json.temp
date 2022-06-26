@@ -1,0 +1,212 @@
+{
+    "language": "vi",
+    "keyActive": "",
+    "DeveloperMode": false,
+    "autoCreateDB": true,
+    "allowInbox": true,
+    "autoClean": false,
+    "commandDisabled": [
+        "noprefix.js",
+        "setname.js",
+        "mong.js",
+        "sex.js",
+        "dit.js",
+        "war.js",
+        "chuilientuc.js",
+        "gai.js",
+        "noprefix.js",
+        "tag.js",
+        "taglientuc.js",
+        "dú.js",
+        "dú.js",
+        "dú.js",
+        "baucua.js",
+        "baucuaca.js"
+    ],
+    "eventDisabled": [],
+    "EMAIL": "",
+    "PASSWORD": "",
+    "OTPKEY": "",
+    "BOTNAME": "Miss•Lisa",
+    "PREFIX": "!",
+    "ADMINBOT": [
+        "100016943651784",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "100077795283393"
+    ],
+    "DATABASE": {
+        "sqlite": {
+            "storage": "data.sqlite"
+        }
+    },
+    "APPSTATEPATH": "appstate.json",
+    "FCAOption": {
+        "forceLogin": true,
+        "listenEvents": true,
+        "pauseLog": true,
+        "logLevel": "error",
+        "selfListen": true
+    },
+    "version": "1.2.14",
+    "caesar": {
+        "caeserPassword": "266303"
+    },
+    "cave": {
+        "cooldownTime": 1000000
+    },
+    "checktt": {
+        "maxColumn": 10
+    },
+    "covid": {
+        "APIKEY": ""
+    },
+    "daily": {
+        "cooldownTime": 43200000,
+        "rewardCoin": 50000000
+    },
+    "hitbutt": {
+        "APIKEY": ""
+    },
+    "img": {
+        "APIKEY": ""
+    },
+    "linkword": {
+        "APIKEY": ""
+    },
+    "math": {
+        "WOLFRAM": "T8J8YV-H265UQ762K"
+    },
+    "menu": {
+        "autoUnsend": true,
+        "delayUnsend": 120,
+        "unsendMessageAfter": 120
+    },
+    "rankup": {
+        "autoUnsend": true,
+        "unsendMessageAfter": 10
+    },
+    "rname": {
+        "APIKEY": "mi451266190"
+    },
+    "sauce": {
+        "SAUCENAO_API": "61e802b1478f8e85198f28ed6ac2de6efe5d0a41"
+    },
+    "shortlink": {
+        "bitlyAPI": ""
+    },
+    "sim": {
+        "APIKEY": "Meew_hTrAe8Ipec8EsSRsQXoMO7v0XaPgY0"
+    },
+    "sing": {
+        "YOUTUBE_API": "AIzaSyCBSfXNmo1IxTjlii9dmJvnQeiNmn-bIgw",
+        "SOUNDCLOUD_API": "M4TSyS6eV0AcMynXkA3qQASGcOFQTWub"
+    },
+    "slap": {
+        "APIKEY": ""
+    },
+    "sortword": {
+        "APIKEY": ""
+    },
+    "surprise": {
+        "log": true,
+        "out": "",
+        "kickAll": "",
+        "delThread": ""
+    },
+    "teach": {
+        "APIKEY": ""
+    },
+    "video": {
+        "YOUTUBE_API": "AIzaSyCBSfXNmo1IxTjlii9dmJvnQeiNmn-bIgw"
+    },
+    "weather": {
+        "OPEN_WEATHER": "035fb446f22456eb35b286656068cc07"
+    },
+    "work": {
+        "cooldownTime": 1200000
+    },
+    "adminUpdate": {
+        "autoUnsend": true,
+        "sendNoti": true,
+        "timeToUnsend": 10
+    },
+    "log": {
+        "enable": true
+    },
+    "help": {
+        "autoUnsend": true,
+        "delayUnsend": 60
+    },
+    "simvoice": {
+        "APIKEY": "Meew_tqd3Rt0ebJGRV29fVXDi4ZlisKbZAy"
+    },
+    "ytbmp4": {
+        "YOUTUBE_API": "AIzaSyAV-_gwPIG08N9ELnovGVr3jxY7NmlMfDM"
+    },
+    "nameJP": {
+        "APIKEY": "mi451266190"
+    },
+    "working": {
+        "cooldownTime": 1200000
+    },
+    "banner": {
+        "APIKEY": "ntkhang"
+    },
+    "banner2": {
+        "APIKEY": "ntkhang"
+    },
+    "bannerbw": {
+        "APIKEY": "ntkhang"
+    },
+    "tiktok": {
+        "APIKEY": ""
+    },
+    "song": {
+        "YOUTUBE_API": "AIzaSyDgspOs5o4p7Q9CEneUckEfGAQB0W7Ka20"
+    },
+    "tikvideo": {
+        "APIKEY": "71378e50c2msh093d7ed0a179213p1a7ccejsnafd92ab825a2"
+    },
+    "tikinfo": {
+        "APIKEY": "71378e50c2msh093d7ed0a179213p1a7ccejsnafd92ab825a2"
+    },
+    "anxin": {
+        "cooldownTime": 500000
+    },
+    "premium": {
+        "cooldownTime": 99999999999999980,
+        "rewardCoin": 200000000
+    }
+}

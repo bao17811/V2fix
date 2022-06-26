@@ -1,0 +1,24 @@
+{
+    "100016943651784": {
+        "warningLeft": 2,
+        "warningReason": [
+            "kí tự"
+        ],
+        "banned": false
+    },
+    "100045820248476": {
+        "warningLeft": 2,
+        "warningReason": [
+            "9119"
+        ],
+        "banned": false
+    },
+    "100081287440628": {
+        "warningLeft": 1,
+        "warningReason": [
+            "18+",
+            "18+"
+        ],
+        "banned": false
+    }
+}
